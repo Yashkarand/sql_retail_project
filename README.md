@@ -203,3 +203,21 @@ GROUP BY shift
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
+## 🙏 Thank You
+
+Thank you for taking the time to go through this project. I hope it provides value and demonstrates how SQL can be used to uncover hidden patterns and drive business intelligence.
+
+If you have any suggestions or feedback, I’d love to hear from you!
+
+---
+
+## 📬 Contact
+
+📧 Email:yashvkarande@gmail.com 
+🔗 LinkedIn:(https://www.linkedin.com/in/yash-karande-b3544a2a1/) 
+
+---
+
+⭐ *If you found this project helpful or inspiring, feel free to give it a star on GitHub!*
+
+
